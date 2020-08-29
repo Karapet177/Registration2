@@ -1,0 +1,49 @@
+#karo1,#user{
+	background-image: url(../karo1.css/crossline-dots.png);
+	font-family: sans-serif;
+	font-size: 95%
+}
+#ramka:hover{
+	background-image: url(../karo1.css/bg.png) ;
+}
+
+#Insta,#Inst,#signin{
+	color: black;
+}
+.armenia{
+	color: red;
+}
+#reg:hover{
+	color: #0000FF
+}
+#reset:hover{
+	color: #0000FF
+}
+#signin:hover{
+	color: #0000FF
+}
+#creat:hover{
+	color: #0000FF
+}
+#ps4{
+	font-style: italic;
+	color: #0000FF
+
+}
+#code:hover{
+	color: #0000FF
+}
+#instafont{
+	font-family: cursive;
+}
+#male,#female{
+	font-weight: 900;
+}
+
+a{
+	text-decoration: none;
+}
+input{
+	cursor: pointer;
+	outline: 0
+}
